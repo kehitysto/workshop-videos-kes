@@ -1,0 +1,3 @@
+[submodule "workshop-video-scripts"]
+	path = workshop-video-scripts
+	url = git@github.com:kehitysto/workshop-video-scripts.git
